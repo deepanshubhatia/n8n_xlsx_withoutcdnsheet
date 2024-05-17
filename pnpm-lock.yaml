@@ -286,7 +286,6 @@ importers:
         version: 3.1.1(express@4.18.2)
       express-handlebars:
         specifier: ^7.0.2
-        version: 7.0.2
       express-openapi-validator:
         specifier: ^4.13.6
         version: 4.13.8
