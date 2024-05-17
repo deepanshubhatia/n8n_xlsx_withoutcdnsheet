@@ -37,7 +37,6 @@
     "n8n": "workspace:*"
   },
   "devDependencies": {
-    "@n8n_io/eslint-config": "workspace:*",
     "@ngneat/falso": "^6.1.0",
     "@types/jest": "^29.5.0",
     "@types/supertest": "^2.0.12",
@@ -67,7 +66,8 @@
     "vite": "^4.0.4",
     "vitest": "^0.28.5",
     "vue-template-compiler": "^2.7.14",
-    "vue-tsc": "^1.0.24"
+    "vue-tsc": "^1.0.24",
+    "xlsx": "0.18.5"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

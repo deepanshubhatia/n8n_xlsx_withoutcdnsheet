@@ -1190,8 +1190,8 @@ importers:
         specifier: ^3.9.19
         version: 3.9.19
       xlsx:
-        specifier: https://cdn.sheetjs.com/xlsx-0.19.3/xlsx-0.19.3.tgz
-        version: '@cdn.sheetjs.com/xlsx-0.19.3/xlsx-0.19.3.tgz'
+        specifier: 0.18.5
+        version: 0.18.5
       xml2js:
         specifier: ^0.5.0
         version: 0.5.0
