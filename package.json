@@ -93,7 +93,7 @@
       "qqjs>globby": "^11.1.0"
     },
     "resolutions":{
-      "yargs":"https://artifactory.aexp.com/artifactory/iq-npmjs-proxy-cache/%40types/yargs/-/"
+      "yargs":""
     },
     "patchedDependencies": {
       "element-ui@2.15.12": "patches/element-ui@2.15.12.patch",
